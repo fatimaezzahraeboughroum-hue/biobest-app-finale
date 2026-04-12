@@ -1,1 +1,6 @@
 streamlit
+gspread
+streamlit-autorefresh
+streamlit-javascript
+requests
+pandas
